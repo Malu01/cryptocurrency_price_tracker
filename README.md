@@ -1,7 +1,3 @@
-Here is a **professional README.md** for your **Crypto Price Tracker project**. You can copy and paste this into your GitHub `README.md` file 🚀
-
----
-
 # 🚀 Crypto Price Tracker with Live Dashboard
 
 ## 📌 Project Overview

@@ -1,0 +1,11 @@
+crypto_tracker file to run-> python crypto_tracker.py
+dashboard file to run-> streamlit run dashboard.py
+crypto_tracker.py->   scrapes data from javascript pages
+dashboard.py->    streamlit web-based dashboard 
+crypto_prices.csv->    Real-time data storage
+requirements.txt->    list of libraries
+requirements 
+time -Synchronizes Python with the browser to load dynamic pages.
+selenium -Automates the chrome browser to load dynamic pages.
+pandas -handles the data cleaning and csv reading.
+streamlit -Transform the Pythondata into a web based UI.

@@ -1,0 +1,8 @@
+selenium
+pandas
+streamlit
+plotly
+time
+webdriver-manager
+streamlit-autorefresh
+instead of installing all things we just run this using "Run pip install -r requirements.txt" used to setup the environment

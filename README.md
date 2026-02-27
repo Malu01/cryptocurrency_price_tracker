@@ -146,14 +146,3 @@ streamlit run dashboard.py
 This project demonstrates real-time data scraping, automation, and dashboard development skills useful in data science, analytics, and financial monitoring systems.
 
 ---
-
-## 👩‍💻 Author
-
-**Malathika P**
-
----
-
-If you want, I can also give:
-✅ GitHub project description (short 2 lines)
-✅ LinkedIn project description
-✅ Resume project description
